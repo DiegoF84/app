@@ -27,23 +27,11 @@ if($_POST){
 </head>
 
 <body>
-<map name="map1" align-center="map1"> <area
-   href="cuadrado.html" alt="Cuadrado" shape=rect coords="0,75,100,175">
-<area href="circulo.html" alt="Círculo" shape=circle coords="175,50,50">
-<area href="triangulo.html" alt="Triángulo" shape=poly coords="125,250, 225,250, 175,165">
-</map>
-
-<img src="https://www.php.net/manual/es/images/c0d23d2d6769e53e24a1b3136c064577-php_logo.png" border="0" width="225" height="251" usemap="#map1">
-<img src="https://www.redeszone.net/app/uploads-redeszone.net/2017/02/mysql.png" border="0" width="225" height="251" usemap="#map1">
-<img src="https://jarroba.com/wp-content/uploads/2015/03/Xampp-Icono-www.Jarroba.com_.png" border="0" width="225" height="251" usemap="#map1">
-
-<img src="https://www.eniun.com/wp-content/uploads/bootstrap-imagenes.png" border="0" width="225" height="251" usemap="#map1">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRudnl8P9Zp7hANVqOyXKyDWm5f10bFaZi4u0GfPLfxqg&s" border="0" width="220" height="220" usemap="#map1">
-
 
 
 
 <div class="container" >
+
 
     <div class="row">
         <div class="col-md-4">
@@ -94,6 +82,7 @@ if($_POST){
 
   </main>
   <footer>
+  
   
   </footer>
   <!-- Bootstrap JavaScript Libraries -->
